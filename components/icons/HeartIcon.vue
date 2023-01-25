@@ -29,7 +29,7 @@ onMounted(() => {
     ref="lottie"
     style="width: 50px"
     @click="click"
-    class="cursor-pointer rounded-full active:bg-slate-100"
+    class="cursor-pointer rounded-full active:bg-slate-50"
     src="https://assets8.lottiefiles.com/packages/lf20_l5g0dsej.json"
     speed="3"
     debug
