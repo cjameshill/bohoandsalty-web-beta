@@ -16,6 +16,7 @@
   "dependencies": {
     "@lottiefiles/lottie-interactivity": "^1.6.1",
     "@lottiefiles/lottie-player": "^1.6.3",
-    "@lottiefiles/vue-lottie-player": "^1.1.0"
+    "@lottiefiles/vue-lottie-player": "^1.1.0",
+    "@vueuse/core": "^9.11.1"
   }
 }
